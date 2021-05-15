@@ -8,7 +8,7 @@ No meu tempo livre, adoro ler Webcomics e aprender mais sobre os Parques Disney.
 ### Informações Básicas
 - Lucien Chalom Machado de Oliveira
 - Pronomes masculinos (ele/dele) ou nenhum pronome 
-- [Linkedin] (https://www.linkedin.com/in/lucien-chalom/?locale=pt_BR).
+- [Linkedin](https://www.linkedin.com/in/lucien-chalom/?locale=pt_BR).
 - Inspiração: cite pessoas que te inspiram - Não precisa ser necessariamente da área de tecnologia
 - Eu gostaria de aprender sobre qualidade de codigo, sobre a area de testes, mas acho que ainda esta longe no meu caminho como desenvolvedor. Hoje em dia eu gosto mesmo é de brincar com CSS.
 - Um dia ainda vou fazer uma pagina simples só pra ter um bagunçador de palavras, e ai a ideia é fazer tambem um tradutor. Eu sei que o tradutor é bem mais dificil de fazer. 

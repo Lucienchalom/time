@@ -6,11 +6,17 @@ No meu tempo livre, adoro ler Webcomics e aprender mais sobre os Parques Disney.
 ## Meu desafio 
 Hospedado [aqui](https://github.com/Lucienchalom/pjoclub) no github, eu tenho um projeto sendo desenvolvido com meu tutor do EducaTransforma, onde ele me ensina a utilizar o React para construir um site para fans de **Percy Jackson** e futuramente as outras series do mesmo escritor, Rick Riordan. 
 Atualmente utiliza um servidor local e APIs fornecidas pelo meu tutor, onde eu registrei o primeiro livro.  Aqui tem um exemplo da primeira pagina com um livro e o servidor conectado: 
+
 ![Pagina inicial renderizada](https://i.imgur.com/hx8uTKG.png)
+
 A proxima imagem já contem uma mensagem de erro recebida do servidor e exposta para o usuario: 
+
 ![Pagina inicial com erro](https://i.imgur.com/Pv3i5mh.png)
+
 E a terceira imagem apresenta a pagina do livro: 
+
 ![Pagina exemplo de livro](https://i.imgur.com/ppKISno.png)
+
 
 Pessoalmente eu acho que o visual não está bonito, porque eu não sou bom em design nem em escolhas de cores. Não me considero criativo o suficiente pra planejar a disposição dos elementos na tela alem do obvio. Eu gostaria tambem de garantir que tivesse uma boa acessibilidade, pretendo trabalhar nisso ainda nesse projeto. 
 Por outro lado, eu fiquei bastante contente com a compartimentalização que o React permite, para que cada pedaço da pagina possa se atualizar separadamente, o que permite que a pagina carregue de forma independente e como criar as rotas das paginas com React Route organizando os links internos. 
